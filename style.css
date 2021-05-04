@@ -201,7 +201,7 @@ padding-left: 15px;
     padding-left: 3px;
     border: solid 3px pink;
     padding-top: 3px;
-  
+
     height: 410px;
 
 }
@@ -271,14 +271,15 @@ padding-left: 15px;
 
 
 .tooltiptext{
-  font-family: Arial;
+  /* font-family: Arial; */
+  font-family: JoystixMonospace-Regular;
 
 }
 
 .button1 .tooltiptext {
 
   visibility: hidden;
-  width: 120px;
+  width: 150px;
   background-color: purple;
   border-ra
   color: #fff;
@@ -298,7 +299,7 @@ left: 43%;
 .button2 .tooltiptext {
 
   visibility: hidden;
-  width: 120px;
+  width: 150px;
   background-color: purple;
   border-ra
   color: #fff;
@@ -318,7 +319,7 @@ left: 60%;
 .button3 .tooltiptext {
 
   visibility: hidden;
-  width: 120px;
+  width: 150px;
   background-color: purple;
   border-ra
   color: #fff;
